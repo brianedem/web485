@@ -17,5 +17,5 @@ would be used.
 This would generate the ASCII message on the bus of
 >:010300000004F8<CR><LF>
 
-The captured response, in the form of `:010308wwwwxxxxyyyyzzzzLR<CR><LF>, could be converted into the HTTP response of
+The captured response, in the form of `:010308wwwwxxxxyyyyzzzzLR<CR><LF>`, could be converted into the HTTP response of
 >TBD

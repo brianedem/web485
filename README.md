@@ -11,6 +11,7 @@ The PDU is sent onto the serial bus using the ASCII serial format, where each by
 ## Example
 For example, to read the first four registers of bus device 1 connected to the 'flow' gateway device the command
 >http://flow/read_registers/1/0?4
+
 would be used.
 
 This would generate the ASCII message on the bus of

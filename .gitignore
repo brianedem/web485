@@ -1,0 +1,7 @@
+# local files
+*.swp
+*.log
+*.cfg
+venv
+.DS_Store
+__pycache__

@@ -73,7 +73,7 @@ cmd_processor.reg_cmds(None, cmd_list)
 html_head = """<!DOCTYPE html>
 <html>
     <head> <title>{0}</title> </head>
-    <body> <h1>{0} Power Monitor</h1>
+    <body> <h1>{0} Water Meter</h1>
         <pre style="font-size:3vw;">
 """
 html_tail = """
